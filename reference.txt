@@ -1,0 +1,52 @@
+###
+# Front-end Reference
+###
+
+Websites: 
+- Net-tuts (free-ish)
+- Treehouse ($)
+- Code School ($)
+
+
+Blogs: 
+- CSS tricks
+- 
+
+
+
+Necessary Basics:
+- Box Model
+- Inline vs Inline-block vs block
+- Floating
+- Semantics
+
+Gotchas:
+- Clearfix
+- 2 Containers side by side with the same height (unknown height)
+
+Oh you sneak bastard:
+- Triangles in CSS
+- Psuedo Selectors :after, :before, :hover, :active, etc...
+
+
+Requests: 
+- Best practices: CSS
+- 
+
+
+--- - -- --- - - - - - - - - -- - - ----- -- - - - - ---- -- -----  - - - -
+--- - -- --- - - - - - - - - -- - - ----- -- - - - - ---- -- -----  - - - -
+
+CSS: 
+- CSS specificity
+- Reset CSS
+- Using classes vs IDs
+- 
+
+jQuery:
+
+JavaScript:
+
+HTML:
+- Forms (fieldsets, labels-"for") 
+- Button elem vs input-submit elem http://www.particletree.com/features/rediscovering-the-button-element/
