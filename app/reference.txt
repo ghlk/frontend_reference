@@ -1,52 +1,46 @@
-###
-# Front-end Reference
-###
+--- - -- --- - - - - --- - - -- - - ----- -- - - - - ---- -- -----  - - - -
+--- - -- --- - - - - --- - - -- - - ----- -- - - - - ---- -- -----  - - - -
+*** Front-end Text Reference *** 
+
+Web & Demos at: Coming soon...
+Git Repo: Coming Soon...
+Author: GregK
+--- - -- --- - - - - --- - - -- - - ----- -- - - - - ---- -- -----  - - - -
+--- - -- --- - - - - --- - - -- - - ----- -- - - - - ---- -- -----  - - - -
+
+** NOTE: Email gregk with any requests for references, best practices, or demos. HTML, CSS, or JS. Or if you have a better reference link.
 
 Websites: 
-- Net-tuts (free-ish)
-- Treehouse ($)
-- Code School ($)
+Paul Irish's Blog - http://www.paulirish.com/
+Addy Osmani's Blog - http://addyosmani.com/blog/
+David Walsh's Blog - http://davidwalsh.name/
+"Badass list of Front-end Resources" - https://gist.github.com/dypsilon/5819504
+CSS Blog, Demos, and Snippets - http://css-tricks.com/
 
-
-Blogs: 
-- CSS tricks
-- 
-
+Gotchas: (Links provided are a way to accomplish these tasks, not the only, and possibly not the best. Please note if the solutions were not helpful.)
+- Floated elements, same non-explicitly set height (http://matthewjamestaylor.com/blog/equal-height-columns-cross-browser-css-no-hacks) (http://stackoverflow.com/questions/526294/how-might-i-force-a-floating-div-to-match-the-height-of-another-floating-div/5234086#5234086)
+- Liquid column layouts (http://matthewjamestaylor.com/blog/ultimate-multi-column-liquid-layouts-em-and-pixel-widths)
+- Vertical Alignment (http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/)
+- Space between 'display: inline-block;' elements. (http://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+- Override inline-styles with CSS file. (http://css-tricks.com/override-inline-styles-with-css/)
+- Submit button with an image/styling (http://www.particletree.com/features/rediscovering-the-button-element/)
+- Clearfix
 
 
 Necessary Basics:
-- Box Model
-- Inline vs Inline-block vs block
-- Floating
-- Semantics
-
-Gotchas:
-- Clearfix
-- 2 Containers side by side with the same height (unknown height)
+- Box Model (http://css-tricks.com/the-css-box-model/)
+- CSS Selector Specificity (http://coding.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/)
+- CSS Reset files (pros and cons)
+- CSS styling selectors (#id, .class, or element)
 
 Oh you sneak bastard:
-- Triangles in CSS
+- Speech Bubbles (http://nicolasgallagher.com/pure-css-speech-bubbles/)
 - Psuedo Selectors :after, :before, :hover, :active, etc...
 
 
-Requests: 
-- Best practices: CSS
-- 
+Requests: ( Please edit this doc and place your requests here )
+- CSS Best Practices
 
 
---- - -- --- - - - - - - - - -- - - ----- -- - - - - ---- -- -----  - - - -
---- - -- --- - - - - - - - - -- - - ----- -- - - - - ---- -- -----  - - - -
-
-CSS: 
-- CSS specificity
-- Reset CSS
-- Using classes vs IDs
-- 
-
-jQuery:
-
-JavaScript:
-
-HTML:
-- Forms (fieldsets, labels-"for") 
-- Button elem vs input-submit elem http://www.particletree.com/features/rediscovering-the-button-element/
+--- - -- --- - - - - --- - - -- - - ----- -- - - - - ---- -- -----  - - - -
+--- - -- --- - - - - --- - - -- - - ----- -- - - - - ---- -- -----  - - - -
